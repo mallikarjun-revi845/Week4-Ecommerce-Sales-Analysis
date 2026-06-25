@@ -1,0 +1,100 @@
+==========================
+TEST CASES
+==========
+
+Test Case 1
+
+Input:
+Load Dataset
+
+Expected Output:
+Dataset loaded successfully.
+
+Status:
+PASS
+
+---
+
+Test Case 2
+
+Input:
+Check Missing Values
+
+Expected Output:
+Displays missing values for every column.
+
+Status:
+PASS
+
+---
+
+Test Case 3
+
+Input:
+Remove Duplicate Records
+
+Expected Output:
+Duplicate records removed successfully.
+
+Status:
+PASS
+
+---
+
+Test Case 4
+
+Input:
+Revenue Analysis
+
+Expected Output:
+
+Displays
+
+* Total Revenue
+* Average Sale
+* Highest Sale
+* Lowest Sale
+* Best Selling Product
+
+Status:
+PASS
+
+---
+
+Test Case 5
+
+Input:
+Generate Charts
+
+Expected Output:
+
+Creates
+
+bar_chart.png
+
+pie_chart.png
+
+line_chart.png
+
+inside visualizations folder.
+
+Status:
+PASS
+
+---
+
+Test Case 6
+
+Input:
+Generate Report
+
+Expected Output:
+
+Creates
+
+sales_report.txt
+
+inside report folder.
+
+Status:
+PASS
